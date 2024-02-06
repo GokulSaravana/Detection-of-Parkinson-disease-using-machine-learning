@@ -1,5 +1,6 @@
 # Detection-of-Parkinson-disease-using-machine-learning
-Overview
+Overview:
+
 This project aims to predict the presence of Parkinson's disease based on patient data using machine learning techniques. The project utilizes a Support Vector Machine (SVM) classifier with a linear kernel to build a predictive model. The model is trained on features such as MDVP measurements and acoustic parameters extracted from voice recordings.
 
 Dependencies:
